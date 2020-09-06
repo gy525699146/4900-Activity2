@@ -1,0 +1,93 @@
+h1
+{
+    text-align: center;
+}
+#picture img
+{
+    width:450px;
+}
+div
+{
+    overflow:hidden;
+}
+#pagediv
+{
+
+    font-size:150%;
+    height:90%;
+    margin: 100px;
+    border:5px solid black;
+
+}
+#pagediv a
+{
+    text-decoration:none;
+}
+#picture
+{
+    float:left;
+    width:40%;
+}
+#content
+{
+    float:left;
+    width:60%;
+}
+h4
+{
+    text-align:right;
+}
+button
+{
+    padding:20px;
+    font-size:20px;
+    background-color:white;
+}
+button:hover
+{
+    font-size:150%;
+    border:5px solid black;
+}
+
+h3
+{
+    text-align:center;
+}
+
+.iphone
+{
+
+    height:80%;
+    width:21%;
+    border:5px solid black;
+    text-align:center;
+    font-size:1.5em;
+     display:inline;
+}
+#i
+{
+    float:left;
+}
+#i1
+{
+    margin-left:45px;
+    float:left;
+}
+#i2
+{
+    margin-left:45px;
+    float:right
+}
+#i3
+{
+ float:right
+}
+
+.iphone img
+{
+    width:200px;
+}
+#link
+{
+clear:both;
+}
